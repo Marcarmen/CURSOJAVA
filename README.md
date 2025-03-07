@@ -1,2 +1,2 @@
-# PRIMERA PARTE EJERCICIOS JAVA
-Ejercicios prácticos de java
+# VARIABLES EN JAVA
+Sección 3 variables ejercicio práctico
